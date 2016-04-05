@@ -1,2 +1,0 @@
-this is myFile3
-this file is garbage
